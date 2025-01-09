@@ -58,6 +58,8 @@ Install the required libraries using:
 pip install numpy pandas scikit-learn matplotlib
 ```
 
+![image](https://github.com/user-attachments/assets/055d34c0-af35-4e62-b0cd-be127a8bbdc3)
+
 ## 🤝 Contributing
 
 Contributions are welcome! 🎉 If you have suggestions for improvements or additional techniques, feel free to fork the repository and create a pull request.
